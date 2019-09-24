@@ -6,7 +6,7 @@ This repository provides the data and implementation of the paper:
 >Generating Timelines by Modeling Semantic Change<br>
 >Guy D. Rosin and Kira Radinsky<br>
 >CoNLL 2019<br>
->URL TBD
+>http://arxiv.org/abs/1909.09907
 
 ## Dependencies
 
